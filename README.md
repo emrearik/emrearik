@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrearik&label=Profile%20views&color=0e75b6&style=flat" alt="emrearik" /> </p>
 
-- 🌱 I’m currently learning **Flutter,React Native**
+- 🌱 I’m currently developing **Flutter, Swift**
 
 - 👨‍💻 All of my projects are available at [github.com/emrearik](github.com/emrearik)
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **flutter, swift**
 
 - 📫 How to reach me **emrearik43@gmail.com**
 
